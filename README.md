@@ -1,1 +1,1 @@
-# Practice
+# Practice for data science course
